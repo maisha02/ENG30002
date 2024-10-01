@@ -1,0 +1,5 @@
+House	Surplus Energy (kWh)	Demand Energy (kWh)	Initial Token Price (T_ij) ($/kWh)	Transfer Cost (C_ij) ($/kWh)	Market Price (P_t) ($/kWh)
+A	20	0	0.12	A->B: 0.01, A->C: 0.02, A->D: 0.03	0.10
+B	0	10	0.12	B->A: 0.01, B->C: 0.02, B->D: 0.03	0.10
+C	15	5	0.12	C->A: 0.02, C->B: 0.01, C->D: 0.02	0.10
+D	0	20	0.12	D->A: 0.03, D->B: 0.02, D->C: 0.02	0.10
